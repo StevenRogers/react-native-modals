@@ -1,6 +1,6 @@
 {
   "name": "react-native-jsmodal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native Modals Library for IOS & Android.",
   "main": "src/index.js",
   "scripts": {
@@ -54,7 +54,7 @@
     "jest-enzyme": "^7.1.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-native": "^0.50.4",
+    "react-native": "^0.66.4",
     "react-native-mock-render": "^0.0.26",
     "rimraf": "^2.6.2"
   },
