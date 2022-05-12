@@ -1,6 +1,6 @@
 {
-  "name": "react-native-modals",
-  "version": "0.22.3",
+  "name": "react-native-jsmodal",
+  "version": "0.0.1",
   "description": "React Native Modals Library for IOS & Android.",
   "main": "src/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacklam718/react-native-modals.git"
+    "url": "https://github.com/StevenRogers/react-native-modals"
   },
   "keywords": [
     "dialog",
@@ -27,7 +27,7 @@
   ],
   "author": "jacklam <jacklam718@gmail.com> (https://github.com/jacklam718)",
   "license": "MIT",
-  "homepage": "https://github.com/jacklam718/react-native-modals/blob/master/README.md",
+  "homepage": "https://github.com/StevenRogers/react-native-modals/blob/master/README.md",
   "dependencies": {
     "babel-plugin-flow-react-proptypes": "^9.1.1",
     "prop-types": "^15.6.0"
